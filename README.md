@@ -1,2 +1,2 @@
 # Netflix-redo
-TraversyMedia Netflix redo code-a-long
+TraversyMedia Netflix redo code-along
